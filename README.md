@@ -2,8 +2,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adamya-gupta&label=Profile%20views&color=0e75b6&style=flat" alt="adamya-gupta" /> </p>
 
-👩🏻‍💻2nd Year Computer Science & Engineering Student at [Vit Bhopal University](https://vitbhopal.ac.in/)<br/>
-💭 Currently learning about data AI and ML <br/>
+👩🏻‍💻3rd Year Computer Science & Engineering Student at [Vit Bhopal University](https://vitbhopal.ac.in/)<br/>
+💭 Currently learning about AI and ML <br/>
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 ![](https://github-readme-stats.vercel.app/api?username=Adamya-Gupta&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
