@@ -23,5 +23,5 @@
 
 # 💻 Socials
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/b_ad._boy)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/adamya.ig)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adamya-gupta?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BsddBeevZR1mTaO9GcRyF9g%3D%3D)
