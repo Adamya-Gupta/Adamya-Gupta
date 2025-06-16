@@ -30,8 +30,8 @@
 
 ## 📊 GitHub Stats:
 <div align="center">
-  <img img height="170em" src="https://github-readme-stats.vercel.app/api?username=Adamya-Gupta&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true" alt="GitHub Stats" />
-   <img img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Adamya-Gupta&theme=blue-green&hide_border=true" alt="GitHub Streak Stats" />
+  <img img height="170em" src="https://github-readme-stats.vercel.app/api?username=Adamya-Gupta&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats" />
+   <img img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Adamya-Gupta&theme=blue-green&hide_border=false" alt="GitHub Streak Stats" />
 </div>
 
 ## 📈 Contribution Graph:
