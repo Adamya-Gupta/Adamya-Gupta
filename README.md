@@ -8,10 +8,9 @@
 </div>
 
 ## 👋 About Me
-🎓 **Computer Science & Engineering Student** at VIT Bhopal University  
-💡 **Philosophy**: I would rather shine like silver than be kept as gold   
-🌟 **Mission**: Inspired by open source - contributing to make technology accessible for everyone  
-🚀 **Focus**: Full Stack Development, Cloud Technologies, and DSA 
+💡 **Philosophy**: <i> "I would rather shine like silver than be kept as gold."</i>    
+🌟 **Mission**: Inspired by open source - contributing to make technology accessible for everyone.  
+🚀 **Focus**: Full Stack Development, Cloud Technologies, and DSA. 
 
 ## 💻 Tech Stack
 | Category                   | Technologies |
@@ -26,17 +25,19 @@
 |  🖥️ Operating Systems        | ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge) ![Kubuntu](https://img.shields.io/badge/-KUbuntu-%230079C1?style=for-the-badge&logo=kubuntu&logoColor=white) ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white) ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white) |
 
 
-## 📊 GitHub Stats:
+<!--## 📊 GitHub Stats:
 <div align="center">
-  <!-- <img img height="170em" src="https://github-readme-stats.vercel.app/api?username=Adamya-Gupta&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true" alt="GitHub Stats" /> -->
-   <!-- <img img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Adamya-Gupta&theme=blue-green&hide_border=true" alt="GitHub Streak Stats" /> -->
+  <img img height="170em" src="https://github-readme-stats.vercel.app/api?username=Adamya-Gupta&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true" alt="GitHub Stats" />
    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adamya-Gupta&layout=compact&theme=blue-green&hide_border=true" alt="Top Languages" />
-</div>
+  
+
+</div>-->
 
 ## 📈 Contribution Graph:
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adamya-Gupta&theme=react-dark&bg_color=20232a&hide_border=true" alt="Contribution Graph" />
 </div>
+
 
 ## 📫 Connect with Me:
 
@@ -44,6 +45,15 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/adamya.ig)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adamya-gupta/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/QEmD7WDfSX/)
+[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/adamyagupta_2011)
+
+
+</div>
+
+<div align="center">
+  
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
 
