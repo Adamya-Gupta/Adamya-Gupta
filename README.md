@@ -3,7 +3,7 @@ If you're reading this, you are one of the curious ones.
 
 Most people only see the surface, but you decided to look deeper. 
 
-Don't stop here. Take a closer look at the visual resources kept on display. 
+Don't stop here. Take a closer look at the visual assets kept on display. 
 
 Keep your eyes open. You might find far more than you expected.
 
@@ -12,7 +12,6 @@ yvlxp://wqjup.xnw/JgE1lBZnWpvaPEbM6
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./Assets/Info-blue.gif">
-  
   <source media="(prefers-color-scheme: light)" srcset="./Assets/Info-white.gif">
   
   <img alt="Adam-Info" src="./Assets/Info-blue.gif">
@@ -23,32 +22,33 @@ yvlxp://wqjup.xnw/JgE1lBZnWpvaPEbM6
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=adamya-gupta&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="adamya-gupta" /> </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Computer+Science+%26+Engineering+Student;Full+Stack+Developer;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=36BCF7&center=true&vCenter=true&width=500&lines=chmod+%2Bx+ideas;sudo+make+something_useful;git+commit+-m+%22why+not%3F%22;git+push+origin+future" alt="Typing SVG" />
 </div>
+
+## 👨‍💻 About me
+- I believe in keeping things simple, direct, and honest. I respect people who think critically, speak their minds, and get straight to the point.
+
+- Give me a problem, enough time, and the right resources, and I'll probably find a way to solve it. I'm not particularly attached to a specific tech stack either - if something needs to be built with a technology I don't know, I'll learn it and get it done. Adaptability is probably one of my strongest qualities.
+
+- Outside of coding, I like debating different ideas and topics. I enjoy challenging assumptions, exploring different perspectives, and having conversations where people actually bring something to the table.
 
 ## 💻 Tech Stack
-| Category                 | Technologies |
-|--------------------------|--------------|
-| 🚀 Programming Languages | ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
-| 🌐 Frontend Development  | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) |
-| ⚙️ Backend Development   | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) |
-| ☁️ Cloud & Deployment    | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) |
-| 🗄️ Databases             | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) |
-| 🤖 AI/ML & Data Science  | ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) |
-| 🛠️ Tools & DevOps        | ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) |
-| 🖥️ Operating Systems     | ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge) ![Kubuntu](https://img.shields.io/badge/-KUbuntu-%230079C1?style=for-the-badge&logo=kubuntu&logoColor=white) ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white) ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white) ![Zorin OS](https://img.shields.io/badge/-Zorin%20OS-%2310AAEB?style=for-the-badge&logo=zorin&logoColor=white) |
 
-## 📈 Contribution Graph:
 <div align="center">
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adamya-Gupta&theme=github-compact&area=true&custom_title=📈%20Contribution%20Graph&hide_title=true" alt="Contribution Graph" />
+  
+[![My Skills](https://skillicons.dev/icons?i=bash,cpp,js,ts)](#)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs)](#)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,fastapi)](#)
+[![My Skills](https://skillicons.dev/icons?i=electron,tauri,docker,postman)](#)
+
 </div>
 
-## 📫 Connect with Me:
+## 📫 Contact
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/adamya.ig)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adamya-gupta/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/adamya.ig)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/QEmD7WDfSX/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-FFD000?style=for-the-badge&logo=codeforces&logoColor=black)](https://codeforces.com/profile/adam.exe)
 
