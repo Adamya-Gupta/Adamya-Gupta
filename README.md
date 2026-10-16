@@ -3,34 +3,28 @@ If you're reading this, you are one of the curious ones.
 
 Most people only see the surface, but you decided to look deeper. 
 
-Don't stop here. Take a closer look at the visual assets kept on display. 
+Don't stop here. Take a closer look at the visual Assets kept on display. 
 
 Keep your eyes open. You might find far more than you expected.
 
 yvlxp://wqjup.xnw/JgE1lBZnWpvaPEbM6
 -->
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./Assets/Info-blue.gif">
-  <source media="(prefers-color-scheme: light)" srcset="./Assets/Info-white.gif">
-  
-  <img alt="Adam-Info" src="./Assets/Info-blue.gif">
-</picture>
+<img src="./Assets/fastfetch-banner.gif" 
+alt="Animated Fastfetch-style terminal introducing Adamya Gupta">
 
 <br>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=adamya-gupta&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="adamya-gupta" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=adamya-gupta&label=VISITORS&color=06110e&style=for-the-badge" alt="adamya-gupta" /> </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=36BCF7&center=true&vCenter=true&width=500&lines=chmod+%2Bx+ideas;sudo+make+something_useful;git+commit+-m+%22why+not%3F%22;git+push+origin+future" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=33fe66&center=true&vCenter=true&width=500&lines=chmod+%2Bx+ideas;sudo+make+something_useful;git+commit+-m+%22why+not%3F%22;git+push+origin+future" alt="Typing SVG" />
 </div>
 
 ## 👨‍💻 About me
-- I believe in keeping things simple, direct, and honest. I respect people who think critically, speak their minds, and get straight to the point.
-
-- Give me a problem, enough time, and the right resources, and I'll probably find a way to solve it. I'm not particularly attached to a specific tech stack either - if something needs to be built with a technology I don't know, I'll learn it and get it done. Adaptability is probably one of my strongest qualities.
-
-- Outside of coding, I like debating different ideas and topics. I enjoy challenging assumptions, exploring different perspectives, and having conversations where people actually bring something to the table.
+- I enjoy building things that solve real problems, exploring how systems work, and finding practical ways to make things better.
+- I'm always up for learning something new, especially when it gives me a new way to approach a problem or bring an idea to life.
+- Outside of coding, you'll find me playing chess, sketching, getting lost in a book, or occasionally going for a run. I like having different ways to challenge myself, express creativity, and unwind.
 
 ## 💻 Tech Stack
 
@@ -43,14 +37,14 @@ yvlxp://wqjup.xnw/JgE1lBZnWpvaPEbM6
 
 </div>
 
-## 📫 Contact
+## 🌐 Find me online
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adamya-gupta/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/adamya.ig)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/QEmD7WDfSX/)
+[![adamya.dev](./Assets/adamya-website-badge.svg)](https://adamya.dev)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/adamya-gupta/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-FFD000?style=for-the-badge&logo=codeforces&logoColor=black)](https://codeforces.com/profile/adam.exe)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=%23d16c06)](https://leetcode.com/u/QEmD7WDfSX/)
 
 </div>
 
